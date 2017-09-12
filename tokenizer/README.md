@@ -1,1 +1,3 @@
-Write your tokeniser in this directory.
+This tokenizer was made by Robert Pena (rapena4)
+
+It is not complete and needs some work...
